@@ -8,9 +8,9 @@ GNNs是专用于处理图数据的神经网络模型。综述 《[Graph Neural N
 
 ## 1 基于半监督的方法
 
-### 1.1 图卷积神经网络 (GCN)
+### 1.1 图卷积神经网络 (GraphConvolutional Network, GCN)
 
-**图卷积神经网络 (简称GCN)** 是由Thomas Kpif在2017年在《[Semi-supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)》论文中首次提出。它是一种利用end-to-end训练方法学习Graph Embedding的技术。
+**图卷积神经网络 **是由Thomas Kpif 在2017年在 [Semi-supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) 论文中首次提出。它是一种利用end-to-end训练方法学习Graph Embedding的技术。
 
 ### Day 1:
 
