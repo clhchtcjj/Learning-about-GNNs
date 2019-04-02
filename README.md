@@ -1,4 +1,4 @@
-图神经网络(Graph Neural Networks, GNNs)
+## 图神经网络(Graph Neural Networks, GNNs)
 
 GNNs是专用于处理图数据的神经网络模型。综述 《[Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)》将这一技术大致分为三大类：基于半监督的方法：图卷积网络；基于无监督的方法：图自编码器；近期新的研究方法：图循环神经网络和图强化学习。
 
