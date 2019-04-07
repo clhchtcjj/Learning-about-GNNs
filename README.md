@@ -16,7 +16,7 @@ GNNs是专用于处理图数据的神经网络模型。综述 《[Graph Neural N
 
 |   Type   |                  Title                   |                 Tutorial                 |
 | :------: | :--------------------------------------: | :--------------------------------------: |
-|  Paper   | [Semi-supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) | [从CNN到GCN的联系与区别——GCN从入门到精（fang）通（qi）](https://www.zhihu.com/question/54504471/answer/332657604), [图卷积网络(GCN)新手村完全指南](https://zhuanlan.zhihu.com/p/54505069)|
+|  Paper   | [Semi-supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) | [从CNN到GCN的联系与区别——GCN从入门到精（fang）通（qi）](https://www.zhihu.com/question/54504471/answer/332657604), [图卷积网络(GCN)新手村完全指南](https://zhuanlan.zhihu.com/p/54505069), [The Emerging Field of Signal Processing on Graphs](https://arxiv.org/pdf/1211.0053.pdf)|
 |   Code   |      <https://github.com/tkipf/gcn>      | [GCN代码分析](https://www.jianshu.com/p/ad528c40a08f) |
 | practice |       https://github.com/tkipf/gcn       | [GCN实践——可视化cora-network](https://www.jianshu.com/p/47425c02d779) |
 
